@@ -11,7 +11,7 @@ Essa é a segunda versão do SEARCHIT. Desta vez o site foi feito utilizando as 
 ![alt text](https://github.com/GlimaGit/Searchit-V2/blob/main/preview/imgDesktop.PNG?raw=true)
 ***Resolução padrão Desktop***
 
-![alt text](https://github.com/GlimaGit/Searchit-V2/blob/main/preview/img4k.png?raw=true)
+![alt text](https://github.com/GlimaGit/Searchit-V2/blob/main/preview/img4k.PNG?raw=true)
 ***Resolução 4K***
 
 ![alt text](https://github.com/GlimaGit/Searchit-V2/blob/main/preview/imgMobile.PNG?raw=true)
