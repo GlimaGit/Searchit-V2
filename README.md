@@ -1,4 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">🔎 SEARCHIT</h1>
+  
+## Projeto:
+
+Essa é a segunda versão do SEARCHIT. Desta vez o site foi feito utilizando as tecnologias ***Next.js, JavaScript, Tailwind CSS e a API TMDB***. O projeto foi iniciado com o propósito de facilitar a busca de filmes e séries de TV.
+
+![alt text](https://github.com/GlimaGit/Searchit-V2/blob/master/Preview/imgDesktop.PNG?raw=true)
+
+O site é totalmente responsivo!
+
+![alt text](https://github.com/GlimaGit/Searchit-V2/blob/master/Preview/imgDesktop.PNG?raw=true)
+***Resolução padrão Desktop***
+
+![alt text](https://github.com/GlimaGit/Searchit/blob/master/Preview/img4k.PNG?raw=true)
+***Resolução 4K***
+
+![alt text](https://github.com/GlimaGit/Searchit/blob/master/Preview/imgMobile.PNG?raw=true)
+![alt text](https://github.com/GlimaGit/Searchit/blob/master/Preview/imgResponsive.PNG?raw=true)
+***Resolução Mobile***
+
 
 ## Getting Started
 
