@@ -2,7 +2,7 @@
   
 ## Projeto:
 
-Essa é a segunda versão do SEARCHIT. Desta vez o site foi feito utilizando as tecnologias ***Next.js, JavaScript, Tailwind CSS e a API TMDB***. O projeto foi iniciado com o propósito de facilitar a busca de filmes e séries de TV.
+Essa é a segunda versão do **SEARCHIT**. Desta vez o site foi feito utilizando as tecnologias ***Next.js, JavaScript, Tailwind CSS e a API TMDB***. O projeto foi iniciado com o propósito de facilitar a busca de filmes e séries de TV.
 
 ![alt text](https://github.com/GlimaGit/Searchit-V2/blob/main/preview/imgDesktop.PNG?raw=true)
 
