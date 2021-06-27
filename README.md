@@ -15,6 +15,8 @@ Essa é a segunda versão do SEARCHIT. Desta vez o site foi feito utilizando as 
 ***Resolução 4K***
 
 ![alt text](https://github.com/GlimaGit/Searchit-V2/blob/main/preview/imgResponsive.PNG?raw=true)
+
+
 ***Resolução Mobile***
 
 
