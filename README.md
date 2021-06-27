@@ -6,9 +6,9 @@ Essa é a segunda versão do SEARCHIT. Desta vez o site foi feito utilizando as 
 
 ![alt text](https://github.com/GlimaGit/Searchit-V2/blob/main/preview/imgDesktop.PNG?raw=true)
 
-O site é totalmente responsivo!
+## O site é totalmente responsivo!
 
-![alt text](https://github.com/GlimaGit/Searchit-V2/blob/main/preview/img4k.PNG?raw=true)
+![alt text](https://github.com/GlimaGit/Searchit-V2/blob/main/preview/imgDesktop.PNG?raw=true)
 ***Resolução padrão Desktop***
 
 ![alt text](https://github.com/GlimaGit/Searchit-V2/blob/main/preview/img4k.png?raw=true)
